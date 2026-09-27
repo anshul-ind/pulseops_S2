@@ -125,12 +125,14 @@ The repository also contains implementation work around AI summaries and related
 ### 🎨 Workspace Customization
 
 Configure the workspace appearance, accent color, and display theme.
-<img width="1919" height="992" alt="Screenshot 2026-09-27 162216" src="https://github.com/user-attachments/assets/bf5e00a4-b9ba-43c2-8c7e-7afd3b9868b0" />
+<img width="1919" height="1048" alt="Screenshot 2026-09-27 160853" src="https://github.com/user-attachments/assets/7b80b16c-dc6d-43de-bf61-d7551b99e613" />
+
 
 ### 🔗 Integrations
 
 Connect and manage GitHub, Slack, and Jira integrations from one place.
-<img width="1919" height="993" alt="Screenshot 2026-09-27 162154" src="https://github.com/user-attachments/assets/9a637be9-e19c-4c57-9a68-abfb1d0bd50f" />
+<img width="1919" height="989" alt="Screenshot 2026-09-27 132712" src="https://github.com/user-attachments/assets/91e94bf5-e664-4e46-b74a-613b0fde9e82" />
+
 ### 💬 Team Communication
 
 View synchronized Slack workspace conversations directly inside PulseOps.
